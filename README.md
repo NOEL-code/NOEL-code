@@ -4,9 +4,9 @@
      
 
 # Education
-     한양대학교 정보시스템학과 Hanyang University Information System
-
-# 
+     한양대학교 정보시스템학과 Hanyang University Information System  
+     
+     2023. 12 ~ 2024.06 신한투자증권 프로 디지털 아카데미 ☁️
  
 # Interest
 - Cloud Computing ☁️  
