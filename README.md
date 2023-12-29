@@ -31,7 +31,10 @@
 
 <br/>
 
-# Information
+# Certification🏆
+정보처리기사(곧), 컴퓨터활용능력 1급, 워드프로세서 1급, 한국사능력검정시험 1급, 행정관리사 2급  
+
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junusong12)](https://solved.ac/junusng12/)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOEL-code&layout=compact"><br><br>
 
