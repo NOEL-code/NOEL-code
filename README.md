@@ -2,16 +2,17 @@
 # Work History
      2017. 12 ~ 2023. 12 국민연금공단 행정직 6급 (National Pension Service)  
      
-# Work Philosophy 
-
-귀찮은 공무원이 좋아하는 일하기 편한 회사 만들기 
 
 
 # Education
      한양대학교 정보시스템학과 Hanyang University Information System  
      
      2023. 12 ~ 2024.06 신한투자증권 프로 디지털 아카데미 ☁️
- 
+
+ # Work Philosophy 
+
+귀찮은 공무원이 좋아하는 일하기 편한 회사 만들기 
+
 # Interest
 - Cloud Computing ☁️  
 - Cyber Security 🔐
