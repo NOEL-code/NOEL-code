@@ -11,7 +11,7 @@
 
  # Work Philosophy 
 
-귀찮은 공무원이 좋아하는, 일하기 편한 회사 만들기 
+
 
 # Interest
 - Cloud Computing ☁️  
