@@ -37,7 +37,7 @@
 <br/>
 
 # Certification🏆
-정보처리기사(곧), 컴퓨터활용능력 1급, 워드프로세서 1급, 행정관리사 2급, 한국사능력검정시험 1급, ADsP(곧)?, SQLD(곧)?  
+정보처리산업기사, 컴퓨터활용능력 1급, 워드프로세서 1급, 한국사능력검정시험 1급, 행정관리사 2급, 정보처리기사(곧)? ADsP(곧)?, SQLD(곧)?  
 
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junusong12)](https://solved.ac/junusng12/)
