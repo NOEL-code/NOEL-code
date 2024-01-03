@@ -26,7 +26,7 @@
 
 <br/>
 
-> ## Web System Programing (HTML + CSS + JS)
+> ## Web System Programing (Front)
 - github: https://github.com/jun980920/websp    
 
 <br/>
