@@ -41,6 +41,9 @@
 알파코 3캠 근처 맛집 리스트 같이 만들어요!  
 https://docs.google.com/spreadsheets/d/1AdePtl99PMjczaGCM0v1L2Mi8R7C5MzwkU9aSUH3aWo/edit#gid=0  
 
+My blog
+https://blog.naver.com/eiieonoel
+
 
 
 
