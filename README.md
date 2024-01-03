@@ -39,6 +39,12 @@
 # Certification🏆
 정보처리산업기사, 컴퓨터활용능력 1급, 워드프로세서 1급, 한국사능력검정시험 1급, 행정관리사 2급, 정보처리기사(곧)? ADsP(곧)?, SQLD(곧)?  
 
+# Please
+알파코 3캠 근처 맛집 리스트 같이 만들어요!
+https://docs.google.com/spreadsheets/d/1AdePtl99PMjczaGCM0v1L2Mi8R7C5MzwkU9aSUH3aWo/edit#gid=0  
+
+
+
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junusong12)](https://solved.ac/junusng12/)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOEL-code&layout=compact"><br><br>
