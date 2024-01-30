@@ -6,7 +6,8 @@
      귀찮은 공무원
 
 # Education📚
-     2023. 03 ~ 한양대학교 정보시스템학과 Hanyang University Information System 🦁    
+     🇰🇷2023. 03 ~ 한양대학교 정보시스템학과 Hanyang University Information System 🦁   
+     🇪🇸2024. 09 ~ 2025. 01 Universidad Carlos III de Madrid (UC3M) Data Science And Engineering (Exchange Student)
      
      2023. 12 ~ 2024.06 신한투자증권 프로 디지털 아카데미 ☁️
 
