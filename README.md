@@ -29,10 +29,10 @@
 
 > ## Web System Programing (Front)
 - github: https://github.com/jun980920/websp
-- 
+ 
 <br/>
 
-- > ## 생일선물 펀딩 서비스(with 신한투자증권) (React + Express)
+> ## 생일선물 펀딩 서비스(with 신한투자증권) (React + Express)
 - github: https://github.com/mini-macbook/PDA-mini-macbook    
 
 <br/>
