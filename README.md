@@ -28,7 +28,12 @@
 <br/>
 
 > ## Web System Programing (Front)
-- github: https://github.com/jun980920/websp    
+- github: https://github.com/jun980920/websp
+- 
+<br/>
+
+- > ## 생일선물 펀딩 서비스(with 신한투자증권) (React + Express)
+- github: https://github.com/mini-macbook/PDA-mini-macbook    
 
 <br/>
 
@@ -39,8 +44,6 @@
 예정: 정보처리기사(실기), ADsP, SQLD  
 
 # Please🙏
-알파코 3캠 근처 맛집 리스트 같이 만들어요!  
-https://docs.google.com/spreadsheets/d/1AdePtl99PMjczaGCM0v1L2Mi8R7C5MzwkU9aSUH3aWo/edit#gid=0  
 
 My blog:  
 https://blog.naver.com/eiieonoel
