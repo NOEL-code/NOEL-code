@@ -52,8 +52,7 @@
 
 # Please🙏
 
-My blog:  
-https://blog.naver.com/eiieonoel
+My blog: https://blog.naver.com/eiieonoel
 
 My instargram: https://www.instagram.com/eiionoel/
 
