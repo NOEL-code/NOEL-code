@@ -33,8 +33,15 @@
 <br/>
 
 > ## 생일선물 펀딩 서비스(with 신한투자증권) (React + Express)
-- github: https://github.com/mini-macbook/PDA-mini-macbook    
+- github: https://github.com/mini-macbook/PDA-mini-macbook
+  
+<br/>
 
+> ## 청년 자산형성 서비스, 절세(연말정산) + 투자 (React + Express)
+- github(front): https://github.com/13th-month-lucky/frontend
+- github(back): https://github.com/13th-month-lucky/backend
+- Youtube: https://www.youtube.com/watch?v=2fSvSiX4dG8&feature=youtu.be&themeRefresh=1
+  
 <br/>
 
 # Certification🏆
