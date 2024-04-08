@@ -21,23 +21,23 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <br/>
 # Project👨‍💻
-> ## Software Engineering with LG (React + Spring boot)  
+> ## 수면 일기 서비스 Software Engineering with LG (React + Spring boot)  
 - github: https://github.com/choijungkang/InsomniaDiary  
 - YouTube: https://www.youtube.com/watch?v=L3_mRzCGa24    
 
 <br/>
 
-> ## Web System Programing (Front)
+> ## 한양대학교 헬스장 안내 서비스 (HTML)
 - github: https://github.com/jun980920/websp
  
 <br/>
 
-> ## 생일선물 펀딩 서비스(with 신한투자증권) (React + Express)
+> ## 생일선물 펀딩 서비스 (React + Express) 신한투자증권
 - github: https://github.com/mini-macbook/PDA-mini-macbook
   
 <br/>
 
-> ## 청년 자산형성 서비스, 절세(연말정산) + 투자 (React + Express)
+> ## 청년 자산형성 서비스, 절세(연말정산) + 투자(ETF) 신한투자증권 (React + Express)
 - github(front): https://github.com/13th-month-lucky/frontend
 - github(back): https://github.com/13th-month-lucky/backend
 - Youtube: https://www.youtube.com/watch?v=2fSvSiX4dG8&feature=youtu.be&themeRefresh=1
@@ -54,6 +54,8 @@
 
 My blog:  
 https://blog.naver.com/eiieonoel
+
+My instargram: https://www.instagram.com/eiionoel/
 
 
 
