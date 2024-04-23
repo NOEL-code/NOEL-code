@@ -45,6 +45,7 @@
 
 > ## 생일선물 펀딩 서비스 (React + Express) 신한투자증권
 - github: https://github.com/mini-macbook/PDA-mini-macbook
+- Youtube: https://www.youtube.com/watch?v=SiVgwYqACRc
   
 <br/>
 
