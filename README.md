@@ -9,7 +9,7 @@
      🇰🇷2023. 03 ~ 한양대학교 정보시스템학과 Hanyang University Information System 🦁   
      🇪🇸2024. 09 ~ 2025. 01 Universidad Carlos III de Madrid (UC3M) Data Science And Engineering ✈️(Exchange Student)
      
-     2023. 12 ~ 2024.06 신한투자증권 프로 디지털 아카데미 ☁️
+     2023. 12 ~ 2024. 06 신한투자증권 프로 디지털 아카데미 ☁️
      2024. 06 ~ 2024. 07 한국과학기술원(KAIST) 몰입캠프 👨‍💻
 
 # Interest⁉️
@@ -57,12 +57,15 @@
   
 <br/>
 
+> ## 마트 포스기 만들기 (JAVA + SWING + MySQL) 신한투자증권
+- github: https://github.com/P-POS/PPOS 
+
 # Certification🏆
 
 
 ### 취득
 ```
-정보처리기사(필기),
+정보처리기사(필기)
 
 워드프로세서 1급 (대한상공회의소 2017.03.24)
 
