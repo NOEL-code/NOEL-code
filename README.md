@@ -10,6 +10,7 @@
      🇪🇸2024. 09 ~ 2025. 01 Universidad Carlos III de Madrid (UC3M) Data Science And Engineering ✈️(Exchange Student)
      
      2023. 12 ~ 2024.06 신한투자증권 프로 디지털 아카데미 ☁️
+     2024. 06 ~ 2024. 07 KAIST 몰입캠프 👨‍💻
 
 # Interest⁉️
 - Cloud Computing ☁️  
