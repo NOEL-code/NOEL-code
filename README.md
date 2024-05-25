@@ -3,7 +3,7 @@
      2017. 12 ~ 2023. 12 국민연금공단 행정직 6급 (National Pension Service)  
      
 # Work Philosophy🧐 
-     귀찮은 공무원
+     Slow Start, Never Stop
 
 # Education📚
      🇰🇷2023. 03 ~ 한양대학교 정보시스템학과 Hanyang University Information System 🦁   
