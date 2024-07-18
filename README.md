@@ -72,7 +72,7 @@
 
 <br/>
 
-> ## ChatGPT 기반 여행지 추천, 얼굴인식 AI활용 앨범 정리(ReactNative + Nest.js) 몰입캠프 우수작 선정
+> ## ChatGPT 기반 여행지 추천, 얼굴인식 AI활용 앨범 정리(ReactNative + Nest.js) 몰입캠프 우수작
 - github: [https://github.com/P-POS/PPOS ](https://github.com/NOEL-code/madcamp_3)
 
 # Certification🏆
