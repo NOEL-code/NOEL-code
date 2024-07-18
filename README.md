@@ -68,7 +68,12 @@
 <br/>
 
 > ## 마트 포스기 만들기 (JAVA + SWING + MySQL) 신한투자증권
-- github: https://github.com/P-POS/PPOS 
+- github: https://github.com/P-POS/PPOS
+
+<br/>
+
+> ## Chat GPT 기반 랜덤 여행지 추천 어플리케이션, 얼굴인식 AI활용 개인별 앨범 정리(ReactNative + Nest.js) 몰입캠프 우수작 선정
+- github: [https://github.com/P-POS/PPOS ](https://github.com/NOEL-code/madcamp_3)
 
 # Certification🏆
 
