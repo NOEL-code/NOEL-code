@@ -19,16 +19,26 @@
 - AI 🤖
   
 # Skill⭐️
-- Programming language : 
+
+- Programming languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=Typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Java&logoColor=white)
-- Frontend : ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
 
+- Frontend:
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=React&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)
 
-- Backend : ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white)
-- DB : ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+- Backend:
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white)
+
 - Cooperation: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
 
   
