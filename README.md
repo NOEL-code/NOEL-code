@@ -43,7 +43,7 @@
 
   
 # Project👨‍💻
-> ## 수면 일기 서비스 Software Engineering with LG (React + Spring boot)  
+> ## 수면 일기 서비스 with LG (React + Spring boot)  
 - github: https://github.com/choijungkang/InsomniaDiary  
 - YouTube: https://www.youtube.com/watch?v=L3_mRzCGa24    
 
