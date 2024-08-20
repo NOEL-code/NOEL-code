@@ -43,7 +43,7 @@
 
   
 # Project👨‍💻
-> ## 수면 일기 서비스 with LG (React + Spring boot)  
+> ## 수면 일기 서비스 한양대학교 with LG전자 (React + Spring boot)  
 - github: https://github.com/choijungkang/InsomniaDiary  
 - YouTube: https://www.youtube.com/watch?v=L3_mRzCGa24    
 
@@ -67,13 +67,13 @@
 
 <br/>
 
-> ## ChatGPT 기반 여행지 추천, 얼굴인식 AI활용 앨범 정리(ReactNative + Nest.js) 몰입캠프 우수작
+> ## ChatGPT 기반 여행지 추천, 얼굴인식 AI활용 앨범 정리 서비스 (ReactNative + Nest.js) 몰입캠프 우수작👑
 - github: [https://github.com/NOEL-code/madcamp_3 ](https://github.com/NOEL-code/madcamp_3)
 
 
 <br/>
 
-> ## 경매 플랫폼 웹 (React + Express) 몰입캠프 우수작
+> ## 경매 플랫폼 서비스 (React + Express) 몰입캠프 우수작👑
 - github: [https://github.com/NOEL-code/madcamp_4 ](https://github.com/NOEL-code/madcamp_4)
 
 # Certification🏆
