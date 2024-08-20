@@ -49,11 +49,6 @@
 
 <br/>
 
-> ## 한양대학교 헬스장 안내 서비스 (HTML)
-- github: https://github.com/jun980920/websp
- 
-<br/>
-
 > ## 생일선물 펀딩 서비스 (React + Express) 신한투자증권
 - github: https://github.com/mini-macbook/PDA-mini-macbook
 - Youtube: https://www.youtube.com/watch?v=SiVgwYqACRc
@@ -74,6 +69,12 @@
 
 > ## ChatGPT 기반 여행지 추천, 얼굴인식 AI활용 앨범 정리(ReactNative + Nest.js) 몰입캠프 우수작
 - github: [https://github.com/NOEL-code/madcamp_3 ](https://github.com/NOEL-code/madcamp_3)
+
+
+<br/>
+
+> ## 경매 플랫폼 웹 (React + Express) 몰입캠프 우수작
+- github: [https://github.com/NOEL-code/madcamp_4 ](https://github.com/NOEL-code/madcamp_4)
 
 # Certification🏆
 
