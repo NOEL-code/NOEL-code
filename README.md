@@ -56,8 +56,7 @@
 <br/>
 
 > ## 청년 자산형성 서비스, 절세(연말정산) + 투자(ETF) 신한투자증권 (React + Express)
-- github(front): https://github.com/13th-month-lucky/frontend
-- github(back): https://github.com/13th-month-lucky/backend
+- github: https://github.com/13th-month-lucky
 - Youtube: https://www.youtube.com/watch?v=2fSvSiX4dG8&feature=youtu.be&themeRefresh=1
   
 <br/>
