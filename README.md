@@ -112,9 +112,6 @@ ADsP, 빅데이터분석기사, 정보보안기사
 <br/>
 [![Instagram Badge](https://img.shields.io/badge/Instagram-eiionoel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eiionoel)
 
-My instargram: https://www.instagram.com/eiionoel/
-
-
 
 
         
