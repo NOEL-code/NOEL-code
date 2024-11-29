@@ -43,6 +43,23 @@
 
   
 # Project👨‍💻
+
+> ## ChatGPT 기반 여행지 추천, 얼굴인식 AI활용 앨범 정리 서비스 (ReactNative + Nest.js) 몰입캠프 우수작👑
+- github: [https://github.com/NOEL-code/madcamp_3 ](https://github.com/NOEL-code/madcamp_3)
+
+<br/>
+
+> ## 경매 플랫폼 서비스 (React + Express) 몰입캠프 우수작👑
+- github: [https://github.com/NOEL-code/madcamp_4 ](https://github.com/NOEL-code/madcamp_4)
+
+<br/>
+
+> ## 청년 자산형성 서비스, 절세(연말정산) + 투자(ETF) 신한투자증권 (React + Express)
+- github: https://github.com/13th-month-lucky
+- Youtube: https://www.youtube.com/watch?v=2fSvSiX4dG8&feature=youtu.be&themeRefresh=1
+
+<br/>
+
 > ## 수면 일기 서비스 한양대학교 with LG전자 (React + Spring boot)  
 - github: https://github.com/choijungkang/InsomniaDiary  
 - YouTube: https://www.youtube.com/watch?v=L3_mRzCGa24    
@@ -55,20 +72,9 @@
   
 <br/>
 
-> ## 청년 자산형성 서비스, 절세(연말정산) + 투자(ETF) 신한투자증권 (React + Express)
-- github: https://github.com/13th-month-lucky
-- Youtube: https://www.youtube.com/watch?v=2fSvSiX4dG8&feature=youtu.be&themeRefresh=1
+
   
-<br/>
 
-> ## ChatGPT 기반 여행지 추천, 얼굴인식 AI활용 앨범 정리 서비스 (ReactNative + Nest.js) 몰입캠프 우수작👑
-- github: [https://github.com/NOEL-code/madcamp_3 ](https://github.com/NOEL-code/madcamp_3)
-
-
-<br/>
-
-> ## 경매 플랫폼 서비스 (React + Express) 몰입캠프 우수작👑
-- github: [https://github.com/NOEL-code/madcamp_4 ](https://github.com/NOEL-code/madcamp_4)
 
 <br/>
 
