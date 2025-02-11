@@ -12,7 +12,7 @@
      2023. 12 ~ 2024. 06 신한투자증권 프로 디지털 아카데미 ☁️
      2024. 06 ~ 2024. 07 한국과학기술원(KAIST) 몰입캠프 👨‍💻
      
-     2025. 02 ~ (Undergraduate Researcher) System Security Lab in Hanyang Univeristy Dep of Computer Science🦁
+     2025. 02 ~ (Undergraduate Researcher) System Security Lab in Hanyang Univeristy Dep of Computer Science 🦁
      
 
 # Interest⁉️
