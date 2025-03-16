@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?text=eiionoel&animation=fadeIn)
 # Work History💼
      2017. 12 ~ 2023. 12 국민연금공단 행정직 6급 (National Pension Service)  
      
