@@ -1,4 +1,6 @@
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/junusong12" width="600" height="300"/></a>
+# Hello I'm 정우성
+새로운 기술을 좋아하고, 새로운 인연을 좋아합니다.
+함께 어려운 문제에 도전하는 팀을 좋아합니다. 
 
 # Work History💼
      2017. 12 ~ 2023. 12 국민연금공단 행정직 6급 (National Pension Service)  
