@@ -9,7 +9,7 @@
      Slow Start, Never Stop
 
 # Education📚
-     🇰🇷2023. 03 ~ OO대학교 정보시스템학과 Hanyang University Information System 🦁   
+     🇰🇷2023. 03 ~ OO대학교 정보시스템학과 OO University Information System 🦁   
      🇪🇸2024. 09 ~ 2025. 01 Universidad Carlos III de Madrid (UC3M) Data Science And Engineering ✈️(Exchange Student)
      
      2023. 12 ~ 2024. 06 신한투자증권 프로 디지털 아카데미 ☁️
@@ -71,7 +71,7 @@
 
 <br/>
 
-> ## 수면 일기 서비스 한양대학교 with LG전자 (React + Spring boot)  
+> ## 수면 일기 서비스 OO대학교 with LG전자 (React + Spring boot)  
 - github: https://github.com/choijungkang/InsomniaDiary  
 - YouTube: https://www.youtube.com/watch?v=L3_mRzCGa24    
 
