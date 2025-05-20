@@ -4,6 +4,7 @@
 
 # Work History💼
      2017. 12 ~ 2023. 12 국민연금공단 행정직 6급 (National Pension Service)  
+     2025. 07 ~  SAP Labs Korea VT intern Infra QA
      
 # Work Philosophy🧐 
      Slow Start, Never Stop
