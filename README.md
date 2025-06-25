@@ -93,7 +93,7 @@
 
 # Publication
 ```
-- 정우성, 이승환, 유서현(2025) 시계열 구간 기반 확률적 변형을 활용한 Website Fingerprinting 방어 기법 설계 및 성능평가, 한국디지털콘텐츠학회  
+정우성, 이승환, 유서현(2025) 시계열 구간 기반 확률적 변형을 활용한 Website Fingerprinting 방어 기법 설계 및 성능평가, 한국디지털콘텐츠학회  
 ```
 
 # Certification🏆
