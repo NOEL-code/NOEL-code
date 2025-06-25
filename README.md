@@ -15,6 +15,7 @@
      
      2023. 12 ~ 2024. 06 신한투자증권 프로 디지털 아카데미 ☁️
      2024. 06 ~ 2024. 07 한국과학기술원(KAIST) 몰입캠프 👨‍💻
+     2025. 03 ~ 2025. 07 한양대학교 카카오와함께하는테크포임팩트 Teaching Agen
      
 
 # Interest⁉️
@@ -59,6 +60,8 @@
 > ## ChatGPT 기반 여행지 추천, 얼굴인식 AI활용 앨범 정리 서비스 (ReactNative + Nest.js) 몰입캠프 우수작👑
 - github: [https://github.com/NOEL-code/madcamp_3 ](https://github.com/NOEL-code/madcamp_3)
 
+# Publication
+- 정우성, 이승환, 유서현(2025) 시계열 구간 기반 확률적 변형을 활용한 Website Fingerprinting 방어 기법 설계 및 성능평가, 한국디지털콘텐츠학회  
 <br/>
 
 > ## 경매 플랫폼 서비스 (React + Express) 몰입캠프 우수작👑
