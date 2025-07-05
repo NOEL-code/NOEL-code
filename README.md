@@ -3,8 +3,8 @@
 함께 어려운 문제에 도전하는 팀을 좋아합니다. 
 
 # Work History💼
-     2017. 12 ~ 2023. 12 국민연금공단 행정직 6급 (National Pension Service)  
      2025. 07 ~  SAP Labs Korea VT Intern
+     2017. 12 ~ 2023. 12 국민연금공단 행정직 6급 (National Pension Service)  
      
 # Work Philosophy🧐 
      Slow Start, Never Stop
@@ -12,10 +12,11 @@
 # Education📚
      🇰🇷2023. 03 ~ 한양대학교 정보시스템학과 Hanyang University Information System 🦁   
      🇪🇸2024. 09 ~ 2025. 01 Universidad Carlos III de Madrid (UC3M) Data Science And Engineering ✈️(Exchange Student)
-     
-     2023. 12 ~ 2024. 06 신한투자증권 프로 디지털 아카데미 ☁️
-     2024. 06 ~ 2024. 07 한국과학기술원(KAIST) 몰입캠프 👨‍💻
+
      2025. 03 ~ 2025. 07 한양대학교 카카오와함께하는테크포임팩트 Teaching Agent
+     2024. 06 ~ 2024. 07 한국과학기술원(KAIST) 몰입캠프 👨‍💻
+     2023. 12 ~ 2024. 06 신한투자증권 프로 디지털 아카데미 ☁️
+
      
 
 # Interest⁉️
