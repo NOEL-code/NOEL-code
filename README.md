@@ -135,11 +135,11 @@ OPIc IM (2025.08.31) 2H2448622584
 
 # Please🙏
 
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=본인주소)](https://www.linkedin.com/in/woosung-jung-8a8a97311/)
+<br/>
 [![Naver Blog Badge](https://img.shields.io/badge/Naver%20Blog-eiieonoel-green)](https://blog.naver.com/eiieonoel)
 <br/>
 [![Instagram Badge](https://img.shields.io/badge/Instagram-eiionoel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eiionoel)
-<br/>
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=본인주소)](https://www.linkedin.com/in/woosung-jung-8a8a97311/)
 
 
         
