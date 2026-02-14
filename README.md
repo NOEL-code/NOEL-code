@@ -3,7 +3,7 @@
 함께 어려운 문제에 도전하는 팀을 좋아합니다. 
 
 # Work History💼
-     2026. 02 ~ 금융결제원
+     2026. 02 ~ Current 금융결제원
      2026. 01 ~ 2026. 02 SGI서울보증
      2025. 07 ~ 2025. 12  SAP Labs Korea
      2017. 12 ~ 2023. 12 국민연금공단 행정직 6급 (National Pension Service)  
