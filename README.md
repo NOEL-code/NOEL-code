@@ -143,14 +143,3 @@ OPIc IH (2026.03.27) 2A3782008609
 <br/>
 [![Instagram Badge](https://img.shields.io/badge/Instagram-eiionoel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eiionoel)
 
-
-        
-
-
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junusong12)](https://solved.ac/junusng12/)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOEL-code&layout=compact"><br><br>
-
-
-
