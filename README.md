@@ -12,7 +12,7 @@
      Slow Start, Never Stop
 
 # Education📚
-     🇰🇷2023. 03 ~ 한양대학교 정보시스템학과 Hanyang University Information System 🦁   
+     🇰🇷2023. 03 ~ 2026. 02 한양대학교 정보시스템학과 Hanyang University Information System 🦁   
      🇪🇸2024. 09 ~ 2025. 01 Universidad Carlos III de Madrid (UC3M) Data Science And Engineering ✈️(Exchange Student)
 
      2025. 03 ~ 2025. 07 한양대학교 카카오와함께하는테크포임팩트 Teaching Agent
