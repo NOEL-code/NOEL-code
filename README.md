@@ -23,9 +23,6 @@
      
 
 # Interest⁉️
-- Cloud Computing ☁️  
-- Security 🔐
-- Crypt Concurrency 💰
 - AI 🤖
   
 # Skill⭐️
