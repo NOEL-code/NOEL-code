@@ -3,9 +3,7 @@
 함께 어려운 문제에 도전하는 팀을 좋아합니다. 
 
 # Work History💼
-     2026. 07 ~ 현대자동차 (Hyundai Moter Group)
      2026. 02 ~ 2026. 07 금융결제원 Korea Financial Telecommunications and Clearings Institute (KFTC)
-     2026. 01 ~ 2026. 02 SGI서울보증 (Seoul Guarantee Insurance)
      2025. 07 ~ 2025. 12 SAP Labs Korea
      2017. 12 ~ 2023. 12 국민연금공단 행정직 6급 (National Pension Service)  
      
@@ -136,8 +134,6 @@ OPIc IH (2026.03.27) 2A3782008609
 ```
 
 # Please🙏
-
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=본인주소)](https://www.linkedin.com/in/woosung-jung-8a8a97311/)
 <br/>
 [![Instagram Badge](https://img.shields.io/badge/Instagram-eiionoel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eiionoel)
 <br/>
