@@ -132,11 +132,3 @@ OPIc IH (2026.03.27) 2A3782008609
 ```
 투자자산운용사, 빅데이터분석기사, 정보보안기사, 네트워크관리사 2급, AWS-SAA-03
 ```
-
-# Please🙏
-<br/>
-[![Instagram Badge](https://img.shields.io/badge/Instagram-eiionoel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eiionoel)
-<br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junusong12)](https://solved.ac/junusng12/)
-
-
